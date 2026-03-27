@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "迷宮ラブソング",
+  "base_artist": "嵐",
+  "createdAt": "2026-03-27T11:50:39.709134Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "迷宮ラブソング",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/01_迷宮ラブソング_嵐.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "迷宮ラブソング",
+      "artist": "Arashi",
+      "has_synced": true,
+      "path": "select/02_迷宮ラブソング_Arashi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "迷宮ラブソング",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/03_迷宮ラブソング_嵐.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "迷宮ラブソング",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_迷宮ラブソング_嵐.txt"
+    }
+  ]
+}
